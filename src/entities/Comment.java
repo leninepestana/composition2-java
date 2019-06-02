@@ -1,13 +1,13 @@
 package entities;
 
-public class Comments {
+public class Comment {
 	private String text;
 	
-	public Comments() {
+	public Comment() {
 		
 	}
 
-	public Comments(String text) {
+	public Comment(String text) {
 		this.text = text;
 	}
 
